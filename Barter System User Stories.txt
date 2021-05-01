@@ -1,0 +1,18 @@
+                                                                                           User Stories
+
+Admin Perspective: 
+  1. Authenticating users.
+  2. Only 2 active requests can be sent by the user.
+
+User Perspective:
+  1. Request item by filling a form.
+  2. User will receive a notification once his/her request is fulfilled.
+  3. User will send a notification once he recieves the thing.
+  4. There should be a option to send a thank you to the owner.
+  5. He/She will be able to see all the pending requests or the fulfilled requests.
+  6. There should be an option to cancel the request.
+
+Donor Perspective:
+  1. He/She will be able to see all the requests on the donate screen.
+  2. Send a notification to user once a request is fulfilled.
+  3. He/She will receive a notification once the user receives the item.
